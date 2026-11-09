@@ -147,6 +147,10 @@ python -m src.api.server
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/CatGPT%20Gateway/)
+
 ## Usage
 
 Once the server is running, you can use it with any OpenAI-compatible client.
